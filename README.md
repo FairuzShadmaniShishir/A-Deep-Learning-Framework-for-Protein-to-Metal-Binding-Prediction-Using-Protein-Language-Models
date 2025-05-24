@@ -39,4 +39,16 @@ Install using:
 ```bash
 pip install -r requirements.txt
 
+## Quick Start
+git clone https://github.com/yourusername/protein-metal-binding-prediction.git
+cd protein-metal-binding-prediction
+
+## Citation
+
+[Fairuz Shadmani Shishir], "A Deep Learning Framework for Protein-to-Metal Binding Prediction Using Protein Language Models", [2024].
+
+## Contact
+shishir@ku.edu
+fsshishir95@gmail.com
+
 
